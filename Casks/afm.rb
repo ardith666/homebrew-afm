@@ -1,6 +1,6 @@
 cask "afm" do
   version "1.0.0"
-  sha256 "5f32d6c9254fc70f50bf83ad82ef4fd35a1d38a18676d6f9e50a320112ed5f2c"
+  sha256 "0fbc5a3cc5bceae39e855f195f4e5da15d7931f5371e53a53249b05d74df1b26  AFM-1.0.0-arm64.dmg"
 
   url "https://github.com/ardith666/afm/releases/download/v#{version}/AFM-#{version}-arm64.dmg"
   name "AFM"
